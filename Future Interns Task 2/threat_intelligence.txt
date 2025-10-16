@@ -1,0 +1,21 @@
+THREAT INTELLIGENCE SUMMARY
+===========================
+
+MALWARE BREAKDOWN:
+- Trojan Detected: 6 occurrences (Most common threat)
+- Rootkit Signature: 2 occurrences (Stealth threat)
+- Ransomware Behavior: 1 occurrence (Critical threat)
+- Spyware Alert: 1 occurrence (Data theft risk)
+- Worm Infection Attempt: 1 occurrence (Spreading threat)
+
+SUSPICIOUS IP ANALYSIS:
+203.0.113.77 - External IP with multiple malware detections and failed logins
+10.0.0.5     - Internal IP with malware and suspicious connections
+198.51.100.42 - External IP with rootkit infection
+
+USER RISK ASSESSMENT:
+alice   - Multiple malware infections across different IPs (HIGH RISK)
+bob     - Ransomware and Trojan detection (HIGH RISK)  
+eve     - Multiple Trojan infections (HIGH RISK)
+david   - Trojan infection and failed logins (MEDIUM RISK)
+charlie - Connection attempts from suspicious IPs (MEDIUM RISK)
